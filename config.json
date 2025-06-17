@@ -16,13 +16,13 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "Rizzu",
-    "PREFIX": "/",
+    "BOTNAME": "X-GLÏNT",
+    "PREFIX": "$",
     "ADMINBOT": [
-        "100040426712109"
+        "100014451034389"
     ],
     "NDH": [
-        "100037743553265"
+        "100014451034389"
     ],
     "DATABASE": {
         "sqlite": {
